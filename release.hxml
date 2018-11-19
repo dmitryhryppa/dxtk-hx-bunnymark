@@ -1,0 +1,5 @@
+common.hxml
+-D release
+-D no_console
+-D no-traces
+-cpp ./out/release

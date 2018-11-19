@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "debug",
+            "command": "haxe",
+            "args": [
+                "debug.hxml"
+            ]
+        },
+        {
+            "label": "release",
+            "command": "haxe",
+            "args": [
+                "release.hxml"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+common.hxml
+-lib hxcpp-debug-server
+-D debug
+-cpp ./out/debug

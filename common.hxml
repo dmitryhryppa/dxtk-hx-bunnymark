@@ -1,0 +1,8 @@
+-lib dxtk-hx
+-cp ./src
+-main Main
+
+-D HXCPP_CPP11
+-D windows
+
+--macro app.ContentProcessor.copyResources()
